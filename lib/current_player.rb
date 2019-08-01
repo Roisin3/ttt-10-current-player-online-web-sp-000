@@ -1,5 +1,5 @@
 def turn_count(board)
-  turn = 0
+  turn == 0
   board.each do ||
     turn += 1
   end
